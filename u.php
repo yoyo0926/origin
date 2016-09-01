@@ -21,7 +21,7 @@ $up_start = micro_time_float();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>PHP探针-UPUPW绿色服务器平台APACHE专用版</title>
+<title>PHP探针-修改/title>
 <meta name="keywords" content="PHP探针,PHP组件,UPUPW,apache,绿色服务器,php,OPcache,ionCube,memcache,XCache,SendMail" />
 <meta name="description" content="UPUPW APACHE专用版PHP探针可检测ionCube,OPcache,memcache,XCache,和SendMail等PHP组件." />
 <meta name="author" content="UPUPW" />
